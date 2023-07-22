@@ -1,4 +1,4 @@
 DISM command to get windows edition name
 ```powershell
-dism /Get-ImageInfo /imagefile:O:\sources\install.esd
+dism /Get-ImageInfo /imagefile:E:\sources\install.esd
 ```
